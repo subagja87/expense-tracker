@@ -1,0 +1,8 @@
+{
+  "name": "Expense Tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
